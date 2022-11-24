@@ -6,7 +6,9 @@ function App() {
   return (
     <main>
       <Header />
+      <div>
       <ImagesCarousel />
+      </div>
       <Main />
     </main>
   )
@@ -20,4 +22,6 @@ export default App
 
 // make the cart toggle section
 
-// make the responsivity for desktop
+// make the responsivity for desktop - in process
+
+// problem in header responsivity
